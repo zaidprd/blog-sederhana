@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: main # Ganti jika nama branch utama Anda berbeda (misal: master)
+  branch: main
 
 publish_mode: editorial_workflow
 
@@ -19,4 +19,5 @@ collections:
       - { name: 'author', label: 'Penulis', widget: 'string' }
       - { name: 'tags', label: 'Tags', widget: 'list', default: ['default'] }
       - { name: 'description', label: 'Deskripsi Singkat', widget: 'string' }
+      - { name: 'featuredImage', label: 'Gambar Utama (Feature Image)', widget: 'image', required: false } # <<< TAMBAHKAN BARIS INI
       - { name: 'body', label: 'Isi Artikel', widget: 'markdown' }
