@@ -41,4 +41,4 @@ Ini adalah bagian terpenting. Kami menyusun proyeksi keuangan realistis untuk 5 
 
 Investasi di bidang perhotelan adalah keputusan besar. Jangan biarkan investasi Anda sia-sia. Dengan **jasa studi kelayakan hotel** kami, Anda akan memiliki fondasi yang kuat untuk meraih kesuksesan.
 
-Hubungi tim kami hari ini untuk konsultasi gratis dan wujudkan visi Anda menjadi kenyataan.
+Hubungi tim kami hari ini untuk konsultasi gratis dan wujudkan visi Anda menjadi kenyataan. segera hubungi ya
