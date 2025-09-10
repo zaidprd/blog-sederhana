@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: main # Ganti jika nama branch utama Anda berbeda (misal: master)
+
+publish_mode: editorial_workflow
+
+media_folder: 'public/static/images/blog' # Folder untuk gambar
+public_folder: '/static/images/blog' # Folder yang akan diakses publik
+
+collections:
+  - name: 'blog' # Nama koleksi
+    label: 'Artikel Blog' # Label di CMS
+    folder: 'data/blog' # Lokasi file artikel Anda
+    create: true # Izinkan pembuatan artikel baru
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Format nama file
+    fields:
+      - { name: 'title', label: 'Judul', widget: 'string' }
+      - { name: 'date', label: 'Tanggal', widget: 'datetime' }
+      - { name: 'author', label: 'Penulis', widget: 'string' }
+      - { name: 'tags', label: 'Tags', widget: 'list', default: ['default'] }
+      - { name: 'description', label: 'Deskripsi Singkat', widget: 'string' }
+      - { name: 'body', label: 'Isi Artikel', widget: 'markdown' }
