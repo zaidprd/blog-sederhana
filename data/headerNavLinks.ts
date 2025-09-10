@@ -1,7 +1,6 @@
 const headerNavLinks = [
-  { href: '/', title: 'Home' },
+  { href: '/', title: 'Home' }, // Pastikan href-nya adalah '/'
   { href: '/blog', title: 'Blog' },
-  { href: '/tags', title: 'Tags' },
   { href: '/projects', title: 'Projects' },
   { href: '/about', title: 'About' },
 ]
