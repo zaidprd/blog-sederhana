@@ -6,6 +6,7 @@ tags:
   - -studi kelayakan -investasi hotel -jasa studi kelayakan hotel
 description: Jasa studi kelayakan hotel profesional untuk memastikan investasi
   Anda aman, menguntungkan, dan siap bersaing di pasar.
+featuredImage: public/static/images/blog/studi-kelayakan-hotel.webp
 ---
 Apa itu Jasa Studi Kelayakan Hotel dan Mengapa Penting? Sebelum memulai proyek properti, terutama hotel, Anda pasti ingin tahu apakah investasi tersebut akan berhasil. Di sinilah **[jasa studi kelayakan hotel](http://jayakonsultanbisnis.com/)** berperan penting. Studi kelayakan adalah analisis mendalam yang mengukur potensi keberhasilan sebuah proyek hotel dari berbagai sudut pandang: pasar, teknis, keuangan, hingga hukum.
 
