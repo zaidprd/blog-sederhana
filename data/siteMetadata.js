@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'Ahmad Zaid',
   headerTitle: 'Jasa Website',
   description:
-    'Jasapembuatan website profesional untuk bisnis Anda. Hubungi kami untuk solusi web yang efektif dan terjangkau.',
+    'Jasa pembuatan website profesional untuk bisnis Anda. Hubungi kami untuk solusi web yang efektif dan terjangkau.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://optimis.my.id',
@@ -38,16 +38,16 @@ const siteMetadata = {
       // Remember to add 'us.umami.is' in `next.config.js` as a permitted domain for the CSP
     },
     // plausibleAnalytics: {
-    //   plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    // 	plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     // If you are hosting your own Plausible.
-    //   src: '', // e.g. https://plausible.my-domain.com/js/script.js
+    // 	src: '', // e.g. https://plausible.my-domain.com/js/script.js
     // },
     // simpleAnalytics: {},
     // posthogAnalytics: {
-    //   posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
+    // 	posthogProjectApiKey: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     // },
     // googleAnalytics: {
-    //   googleAnalyticsId: '', // e.g. G-XXXXXXX
+    // 	googleAnalyticsId: '', // e.g. G-XXXXXXX
     // },
   },
   newsletter: {
@@ -92,11 +92,11 @@ const siteMetadata = {
     },
     // provider: 'algolia',
     // algoliaConfig: {
-    //   // The application ID provided by Algolia
-    //   appId: 'R2IYF7ETH7',
-    //   // Public API key: it is safe to commit it
-    //   apiKey: '599cec31baffa4868cae4e79f180729b',
-    //   indexName: 'docsearch',
+    // 	// The application ID provided by Algolia
+    // 	appId: 'R2IYF7ETH7',
+    // 	// Public API key: it is safe to commit it
+    // 	apiKey: '599cec31baffa4868cae4e79f180729b',
+    // 	indexName: 'docsearch',
     // },
   },
 }
