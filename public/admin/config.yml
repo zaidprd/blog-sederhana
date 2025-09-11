@@ -12,6 +12,7 @@ collections:
     label: 'Artikel Blog' # Label di CMS
     folder: 'data/blog' # Lokasi file artikel Anda
     create: true # Izinkan pembuatan artikel baru
+     extension: 'mdx' # <<< TAMBAHKAN BARIS INI
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Format nama file
     fields:
       - { name: 'title', label: 'Judul', widget: 'string' }
